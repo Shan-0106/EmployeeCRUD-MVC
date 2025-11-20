@@ -17,3 +17,5 @@ This project is a simple CRUD application for managing employees.
 
 ## Screenshot
 (Add image after project completion)
+![Employee CRUD Screenshot](project-CreateEmployee.png)
+![Employee CRUD Screenshot](project-Home.png)
