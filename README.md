@@ -83,7 +83,9 @@ CREATE TABLE Employees(
    /Employees
 
 
-## Screenshot
-(Add image after project completion)
+
+### Screenshot — Home Page  
 ![Employee CRUD Screenshot](Home.png)
+
+### Screenshot — Employee List Page  
 ![Employee CRUD Screenshot](CreateEmployee.png)
